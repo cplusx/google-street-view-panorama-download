@@ -16,4 +16,5 @@ panorama = streetview.download_panorama_v3(panoid, zoom=2, disp=False)
 plt.imshow(panorama)
 ```
 Output:
+
 ![demo image](demo.png)
