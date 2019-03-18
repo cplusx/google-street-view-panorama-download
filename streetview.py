@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Original code is from 
+Original code is from https://github.com/robolyst/streetview
 Functions added in this file are
 download_panorama_v1, download_panorama_v2, download_panorama_v3
 Usage: 
